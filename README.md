@@ -11,7 +11,7 @@ Brief explanation of the project.
   - [Basic Usage Install](#basic-usage-install)
   - [Production Deployment](#production-deployment)
   - [Development Install](#development-install)
-- [Usage / API](#usage-api)
+- [Usage / API](#usage--api)
 - [Troubleshooting](#troubleshooting)
 - [FAQs](#faqs)
 - [Team](#team)
