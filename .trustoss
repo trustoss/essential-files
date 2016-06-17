@@ -17,6 +17,6 @@
 	"changelog_location": "CHANGELOG.md",
 	"coc": "Contributor Covenant",
 	"coc_location": "CODEOFCONDUCT.md",
-	"assets": "./assets",
+	"assets": "./.assets",
 	"governance": "./.governance"
 }
