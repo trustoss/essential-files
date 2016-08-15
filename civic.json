@@ -1,0 +1,33 @@
+{
+  "name": "your project name",
+  "description": "An awesome description of your project",
+  "license": "ISC",
+  "status": "Beta",
+  "homepage": "http://open.dc.gov/civic.json",
+  "repository": "https://github.com/DCgov/civic.json",
+  "geography": [],
+  "contact": {
+    "name": "Your Name",
+    "email": "name@example.com"
+  },
+  "partners": [
+    {
+      "name": "Name of direct partner",
+      "email": "name@example.gov"
+    },
+    {
+      "name": "Name of partner entity",
+      "url": "http://example.com/url/to/partner"
+    }
+  ],
+  "data": [],
+  "tags": [
+    "documentation",
+    "schema",
+    "standard",
+    "civic",
+    "government"
+  ],
+  "links": [],
+  "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json"
+}
