@@ -1,6 +1,6 @@
 # Project NAME
 
-[![](https://img.shields.io/badge/Trust-OSS-green.svg)](http://trustoss.org)
+[![](https://img.shields.io/badge/docs-TrustOSS-green.svg)](http://trustoss.org)
 [![Build Status Badge - Use something like TravisCI](https://img.shields.io/badge/build-status-brightgreen.svg)](http://about.travis-ci.org/docs/user/getting-started/)
 
 Brief explanation of the project.
